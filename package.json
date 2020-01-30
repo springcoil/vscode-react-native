@@ -532,7 +532,7 @@
 		"typechecker": "2.0.8",
 		"ultron": "1.0.2",
 		"vscode-chrome-debug-core": "^6.7.46",
-		"vscode-debugadapter": "^1.34.0",
+		"vscode-debugadapter": "^1.37.1",
 		"vscode-debugprotocol": "^1.34.0",
 		"vscode-extension-telemetry": "0.0.5",
 		"vscode-nls": "^3.2.2",
